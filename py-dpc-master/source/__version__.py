@@ -1,0 +1,5 @@
+__title__ = "pyDPC"
+__description__ = "Tool box"
+__url__ = "https://github.com/2331288823/py-dpc"
+__author__ = "DPC"
+__author_email__ = "chi8221287@163.com"
